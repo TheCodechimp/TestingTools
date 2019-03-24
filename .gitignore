@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/Ataraxia.Tools.Testing/v15
+/Ataraxia.Tools.Testing/bin/Debug/netstandard2.0
+/Ataraxia.Tools.Testing/obj
+*.user
